@@ -13,4 +13,4 @@ You need to have a SASS compiler. I'm using [Live Sass vscode extension](https:/
     }
 ],
 "liveSassCompile.settings.generateMap": false
-```js
+```
