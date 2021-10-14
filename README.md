@@ -1,4 +1,4 @@
-This is a blank html project that uses scss for styling. There is an index page and then 2 example form pages.
+This is a minimal html project that uses scss for styling. There is an index page and then 2 example form pages.
 
 This is based on following [this YouTube playlist](https://www.youtube.com/playlist?list=PLillGF-Rfqba3xeEvDzIcUCxwMlGiewfV) by Traversy Media
 
