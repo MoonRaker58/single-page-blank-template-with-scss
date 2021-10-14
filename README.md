@@ -4,7 +4,7 @@ This is based on following [this YouTube playlist](https://www.youtube.com/playl
 
 You need to have a SASS compiler. I'm using [Live Sass vscode extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) for mine. I also have the following settings set in vscode.
 
-```
+```javascript
 "liveSassCompile.settings.formats": [
     {
         "format": "compressed",
